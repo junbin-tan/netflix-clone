@@ -18,7 +18,13 @@ const auth = () => {
                     {/* <Input /> */}
                   </div>
                   <div className='flex flex-col gap-4'>
-                    
+                    asdasd
+                  </div>
+                  <div className='flex flex-col gap-4'>
+                    asdasd
+                  </div>
+                  <div className='flex flex-col gap-4'>
+                    asdasd
                   </div>
                   
               </div>
